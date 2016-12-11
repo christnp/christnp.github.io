@@ -1,17 +1,17 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: christnp.github.io
+email: thechristnp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
-github_username:  github_username
+github_username:  christnp
 
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 
 # Pagination
 paginate: 15
@@ -25,5 +25,12 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
+# Changelog
+# (1) changed highlighter to "rouge" because "pygments" was giving a build error on GitHub.
+#   (a) Reference: https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors.
+# (2) Added "projects" under collections (will replace portfolio).
 
