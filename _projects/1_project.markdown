@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-description: Open this project
+title: OpenCL on Cyclone V SoC
+abstract: In this project OpenCL is implemented on an Altera® Cyclone® V System-on-Chip (SoC) development kit, where an ARM® Cortex®-A9 will serve as the host and a field-programmable gate array (FPGA) will serve as the device.
 img: /img/code3.png
 ---
 

@@ -17,9 +17,12 @@ description: landing page for all projects
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
+            <p> Open Project <p>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <br/>
+            <br/>
+            <p>{{ project.abstract }}</p>
         </span>
         </a>
     </div>
@@ -35,9 +38,12 @@ description: landing page for all projects
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
+            <p> Open Project <p>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <br/>
+            <br/>
+            <p>{{ project.abstract }}</p>
         </span>
         </a>
     </div>
