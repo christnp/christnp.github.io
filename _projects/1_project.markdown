@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: 
+description: Open this project
 img: /img/code3.png
 ---
 
