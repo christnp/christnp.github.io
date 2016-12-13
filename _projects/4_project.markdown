@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project
-description: another without an image
+abstract: This is a placeholder for future projects. It includes some tips for including projects.
 img: 
 ---
 
@@ -12,7 +12,7 @@ To give your project a background in the portfolio page, just add the img tag to
 	---
 	layout: post
 	title: Project
-	description: a project with a background image
+	abstract: a project with a background image
 	img: /img/12.jpg
 	---
 

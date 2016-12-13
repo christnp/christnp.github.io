@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project that redirects to another website
+title: Placeholder
+abstract: This is a placeholder for future projects. It redirects to another website.
 img:
 redirect: https://unsplash.com
 ---
@@ -13,7 +13,7 @@ To give your project a background in the portfolio page, just add the img tag to
 	---
 	layout: post
 	title: Project
-	description: a project with a background image
+	abstract: a project with a background image
 	img: /img/12.jpg
 	---
 
