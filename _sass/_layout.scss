@@ -203,14 +203,14 @@ padding: 10px;
 }
 // Wattpad size is 512x800; thumbnail is 3/8 the size
 .thumbnail{
-width: 192px; //100%;
-height: 300px; //230px;
+width: 512ps;//192px; //100%;
+height: 800px; //300px; //230px;
 overflow: hidden;
 }
 .thumbnail img{
 width: 100%;
 height: 100%;
-position: relative;
+//position: relative;
 //left: -25%;
 //top: -5%;
 }
