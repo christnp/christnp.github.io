@@ -9,6 +9,8 @@ twitter_username: twitter_username
 github_username:  christnp
 
 # Build settings
+gems: [jekyll-paginate]
+
 markdown: kramdown
 
 highlighter: rouge
