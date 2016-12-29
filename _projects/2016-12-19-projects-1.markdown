@@ -5,4 +5,4 @@ category: Services
 title: Project 1
 description: |
 ---
-  This is my first attempt at adding a project to this landing page!
+  This is my second attempt at adding a project to this landing page!

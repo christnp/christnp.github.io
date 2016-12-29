@@ -1,19 +1,7 @@
 <section id="interests">
-	<div class="banner">
-
 	{% for interest in site.interests%}
-		<!-- <div class="container">
-
-			<div class="row"> -->
-				<div class="video-container">
-					{{ interest.audio-embed }}
-				</div>
-		<!-- 	</div>
-
-		</div> -->
-		<!-- /.container -->
-	{% endfor %}
-
+	<div class="video-container">
+		{{ interest.audio-embed }}
 	</div>
-	<!-- /.banner -->
+	{% endfor %}
 </section>

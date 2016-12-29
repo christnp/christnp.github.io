@@ -1,8 +1,0 @@
----
-layout: default
-img: project_1.png
-category: Services
-title: Project 1
-description: |
----
-  This is my first attempt at adding a project to this landing page!
