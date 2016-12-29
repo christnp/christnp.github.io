@@ -25,8 +25,11 @@ highlighter: rouge
 #   3rd Party Settings    #
 # ----------------------- #
 
+#   title: Font Awesome name
+#   url: linke
+#   name: Name that appears to the user
 social:
-  - title: envelope
+  - title: envelope 
     url: mailto:thechristnp@gmail.com
     name: email
   - title: github
@@ -37,5 +40,5 @@ social:
     name: twitter
   - title: linkedin
     url: https://www.linkedin.com/in/nicholas-christman-855a24b6
-    name: twitter
+    name: linkedin
 
