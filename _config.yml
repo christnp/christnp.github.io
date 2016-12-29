@@ -28,10 +28,14 @@ highlighter: rouge
 social:
   - title: envelope
     url: mailto:thechristnp@gmail.com
+    name: email
   - title: github
     url: https://github.com/christnp
+    name: github
   - title: twitter
     url: https://twitter.com/TheChristman86  
+    name: twitter
   - title: linkedin
     url: https://www.linkedin.com/in/nicholas-christman-855a24b6
+    name: twitter
 
