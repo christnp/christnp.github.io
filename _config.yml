@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: christnp.github.io
-title: Christman's Projects
+title: Christman's ProjectIn
 email: thechristnp@gmail.com
 author: Nick Christman
 description: > # "Write an awesome description for your new site here. 
@@ -26,9 +26,12 @@ highlighter: rouge
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/TheChristman86
+  - title: envelope
+    url: mailto:thechristnp@gmail.com
   - title: github
     url: https://github.com/christnp
+  - title: twitter
+    url: https://twitter.com/TheChristman86  
   - title: linkedin
     url: https://www.linkedin.com/in/nicholas-christman-855a24b6
+
