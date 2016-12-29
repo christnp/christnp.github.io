@@ -186,5 +186,6 @@ p.copyright {
 }
 
 .bkgnd-theme-1 {
-    background-color: #b2ddf7
+    background-color: #b2ddf7;
+    background-size: cover;
 }
