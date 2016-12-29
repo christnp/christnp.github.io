@@ -2,7 +2,7 @@
 layout: default
 img: project_1.png
 category: Services
-title: Project 1
-description: |
+title: FPGA Implementation of OpenCL
+description:
 ---
-  This is my second attempt at adding a project to this landing page!
+  In this project OpenCL is implemented on an Altera® Cyclone® V System-on-Chip (SoC) development kit, where an ARM® Cortex®-A9 will serve as the host and a field-programmable gate array (FPGA) will serve as the device. An FPGA is a customizable and highly parallel device that is commonly used to accomplish digital signal processing tasks, but requires knowledge of a hardware description language (HDL). OpenCL allows software developers to harnesses the vast power of an FPGA without the necessity of understanding an HDL. The biggest challenge is in the details and process of setting up a hardware environment where OpenCL can succeed. 
